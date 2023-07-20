@@ -9,4 +9,6 @@ Tema: Regresión Múltiple y Variables Instrumentales en R
 
 Utilizando el paquete wooldridge
 
+
 Guillermo Ismodes Bulnes
+Ing. en Información y Contról de Gestión
