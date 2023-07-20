@@ -16,4 +16,4 @@ Guillermo Ismodes Bulnes
 
 Ing. en Información y Control de Gestión
 
-Est. Mg. Sc. Empresariales 
+Estudiante Mg. Sc. Empresariales 
