@@ -73,10 +73,6 @@ library(apaTables)
 
 # Generar la tabla de correlaciones en formato APA
 apa.cor.table(wage, filename = "Tabla1.doc", table.number = 1, landscape = T)
-#cor_table <- apa_table(wage, show.conf.interval = FALSE)
-
-# Imprimir la tabla en formato APA
-#print(cor_table, format = "html", caption = "Tabla de correlaciones")
 
 # PASO 10
 # Cargar la librería "dplyr"
@@ -145,14 +141,10 @@ library(car)
 # Calcular los factores de inflación de varianza (VIF) para el modelo reg2
 vif_values <- vif(reg2)
 
-#visualizacion
-# Calcular los factores de inflación de varianza (VIF) para el modelo reg2
-#vif_values <- car::vif(reg2)
-
 # Crear un gráfico de barras para visualizar los VIF
 barplot(vif_values, main = "Factores de Inflación de Varianza (VIF) para reg2",
         xlab = "Variables Explicativas", ylab = "VIF")
- #visualización con plotly
+# visualización con plotly
 # Cargar el paquete "plotly"
 install.packages("plotly")
 library(plotly)
@@ -220,3 +212,6 @@ se_iv2 <- sqrt(diag(cov_iv2))
 # PASO 24
 stargazer(reg1, reg2, iv2, type = "text", se = list(se1, se2, se_iv2),
           title = "Tabla 3. Resultados de los modelos de Regresión")
+
+# GUILLERMO ISMODES BULNES
+# EST. MG. CS EMPRESARIALES - UCN
