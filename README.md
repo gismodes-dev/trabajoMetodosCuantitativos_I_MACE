@@ -1,6 +1,8 @@
 # Trabajo de Metodos Cuantitativos I
 Magíster en Ciencias Empresariales
 
+Profesor: Mauricio Gallardo
+
 ---
 
 Repositorio del Trabajo de Métodos Cuantitativos I
