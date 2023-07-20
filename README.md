@@ -13,3 +13,5 @@ Utilizando el paquete wooldridge
 Guillermo Ismodes Bulnes
 
 Ing. en Información y Contról de Gestión
+
+Est. Mg. Sc. Empresariales 
